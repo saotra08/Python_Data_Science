@@ -12,11 +12,11 @@ The full assignment is in [en.subject.pdf](en.subject.pdf).
 
 ## Project Status
 
-🟢 **In progress — 6 / 10 exercises complete.**
+🟢 **In progress — 7 / 10 exercises complete.**
 
 | Ex     | 00 | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 |
 |--------|----|----|----|----|----|----|----|----|----|----|
-| Status | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ |
+| Status | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⬜ | ⬜ | ⬜ |
 
 - ✅ **ex00** — complete; `Hello.py` tested, output matches `ex00_test.input` and conforms to the subject.
 - ✅ **ex01** — complete; `format_ft_time.py` tested, output matches the required format and conforms to the subject.
@@ -24,7 +24,8 @@ The full assignment is in [en.subject.pdf](en.subject.pdf).
 - ✅ **ex03** — complete; `NULL_not_found.py` tested against `tester.py`; all Null types detected (returns 0/1) and conforms to the subject.
 - ✅ **ex04** — complete; `whatis.py` tested across all six argument cases (odd/even, no-arg, AssertionErrors) and conforms to the subject.
 - ✅ **ex05** — complete; `building.py` tested (arg, no-arg prompt, too-many-args) and **flake8/pycodestyle-clean** with docstrings — first norm-graded exercise.
-- ⬜ **ex06 – ex09** — not started yet.
+- ✅ **ex06** — complete; `ft_filter.py` (behaves like `filter`, list comprehension) + `filterstring.py` tested on all 4 cases, both flake8-clean. _Note: `ft_filter`'s docstring is a custom description, not a byte-match of `filter.__doc__`._
+- ⬜ **ex07 – ex09** — not started yet.
 
 ---
 
