@@ -12,16 +12,17 @@ The full assignment is in [en.subject.pdf](en.subject.pdf).
 
 ## Project Status
 
-🟢 **In progress — 3 / 10 exercises complete.**
+🟢 **In progress — 4 / 10 exercises complete.**
 
 | Ex     | 00 | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 |
 |--------|----|----|----|----|----|----|----|----|----|----|
-| Status | ✅ | ✅ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| Status | ✅ | ✅ | ✅ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
 - ✅ **ex00** — complete; `Hello.py` tested, output matches `ex00_test.input` and conforms to the subject.
 - ✅ **ex01** — complete; `format_ft_time.py` tested, output matches the required format and conforms to the subject.
 - ✅ **ex02** — complete; `find_ft_type.py` tested against `tester.py`, output matches the subject byte-for-byte.
-- ⬜ **ex03 – ex09** — not started yet.
+- ✅ **ex03** — complete; `NULL_not_found.py` tested against `tester.py`; all Null types detected (returns 0/1) and conforms to the subject.
+- ⬜ **ex04 – ex09** — not started yet.
 
 ---
 
