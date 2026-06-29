@@ -12,14 +12,15 @@ The full assignment is in [en.subject.pdf](en.subject.pdf).
 
 ## Project Status
 
-🟢 **In progress — 1 / 10 exercises complete.**
+🟢 **In progress — 2 / 10 exercises complete.**
 
 | Ex     | 00 | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 |
 |--------|----|----|----|----|----|----|----|----|----|----|
-| Status | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| Status | ✅ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
 - ✅ **ex00** — complete; `Hello.py` tested, output matches `ex00_test.input` and conforms to the subject.
-- ⬜ **ex01 – ex09** — not started yet.
+- ✅ **ex01** — complete; `format_ft_time.py` tested, output matches the required format and conforms to the subject.
+- ⬜ **ex02 – ex09** — not started yet.
 
 ---
 
